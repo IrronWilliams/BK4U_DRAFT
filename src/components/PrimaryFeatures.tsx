@@ -31,19 +31,19 @@ const features = [
   {
     title: 'Bookkeeping',
     description:
-      "Effectively maintain your business records and financial transactions to optimize processes.",
+      "Effectively maintain your business records and financial transactions.",
     image: screenshotCalcPenBinder,
   },
   {
     title: 'Financial Reporting',
     description:
-      "Ownership of your company's financial reporting process; including perparing & filing reports and maintaining accounting policies.",
+      "Ownership of your company's financial reporting process; including preparing & filing reports and maintaining accounting policies.",
     image: screenshotRulerChart,
   },
   {
     title: 'Consulting',
     description:
-      'Committed to delivering exceptional service and providing personalized support to drive growth and profitabilty.',
+      'Committed to delivering exceptional service and providing personalized support to drive your growth and profitabilty.',
     image: screenshotConferenceRoom,
   },
 ]
